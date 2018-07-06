@@ -8,3 +8,6 @@ np_x = np.array(rand_ages)
 print(np_x)
 
 import matplotlib as mpl
+
+mpl.plot(np_x)
+mpl.show()
